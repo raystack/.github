@@ -1,1 +1,1 @@
-![img](https://github.com/odpf/.github/blob/main/profile/group.jpg)
+![img](https://github.com/odpf/.github/blob/main/profile/overview.svg)

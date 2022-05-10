@@ -243,7 +243,7 @@
             <g id="Card/Medium/Active" transform="translate(16.000000, 110.000000)">
                 <rect id="Rectangle-Copy-29" stroke="#D7E4FC" fill="#E8EFFD" x="0.5" y="0.5" width="119" height="39" rx="4"></rect>
                 <text id="Registry" font-family="Roboto-Regular, Roboto" font-size="14" font-weight="normal" line-spacing="18" letter-spacing="0.139999983" fill="#2C2C2C">
-                    <tspan x="41" y="23.5">Columbus</tspan>
+                    <tspan x="41" y="23.5">Compass</tspan>
                 </text>
                 <g id="Discovery" transform="translate(6.000000, 6.534884)">
                     <path d="M26,13 C26,20.1798594 20.1798594,26 13,26 C5.82034375,26 0,20.1798594 0,13 C0,5.82014063 5.82034375,0 13,0 C20.1798594,0 26,5.82014063 26,13" id="Fill-407" fill="#33BEDE"></path>
